@@ -10,7 +10,7 @@ import (
 	"strconv"
 	"time"
 
-	"code.byted.org/videoarch-onpremise/dm/util"
+	"github.com/sineycoder/dm-driver/util"
 )
 
 var rwMap = make(map[string]*rwCounter)

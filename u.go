@@ -17,7 +17,7 @@ import (
 	"strings"
 	"time"
 
-	"code.byted.org/videoarch-onpremise/dm/util"
+	"github.com/sineycoder/dm-driver/util"
 )
 
 var rp = newRsPool()

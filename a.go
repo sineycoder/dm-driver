@@ -13,7 +13,7 @@ import (
 	"time"
 	"unicode/utf8"
 
-	"code.byted.org/videoarch-onpremise/dm/security"
+	"github.com/sineycoder/dm-driver/security"
 )
 
 const (

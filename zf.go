@@ -12,7 +12,7 @@ import (
 	"reflect"
 	"time"
 
-	"code.byted.org/videoarch-onpremise/dm/util"
+	"github.com/sineycoder/dm-driver/util"
 )
 
 const SQL_GET_DSC_EP_SITE = "SELECT " +

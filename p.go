@@ -10,7 +10,7 @@ import (
 	"database/sql/driver"
 	"sync"
 
-	"code.byted.org/videoarch-onpremise/dm/i18n"
+	"github.com/sineycoder/dm-driver/i18n"
 )
 
 // 发版标记

@@ -10,7 +10,7 @@ import (
 	"fmt"
 	"runtime"
 
-	"code.byted.org/videoarch-onpremise/dm/i18n"
+	"github.com/sineycoder/dm-driver/i18n"
 )
 
 // 驱动级错误

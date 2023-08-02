@@ -12,7 +12,7 @@ import (
 	"fmt"
 	"sync/atomic"
 
-	"code.byted.org/videoarch-onpremise/dm/parser"
+	"github.com/sineycoder/dm-driver/parser"
 	"golang.org/x/text/encoding"
 )
 
