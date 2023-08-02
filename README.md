@@ -2,7 +2,7 @@
 
 ### 介绍
 ``` 
-go get gitee.com/chunanyong/dm 
+go get github.com/sineycoder/dm-driver
 ```  
 达梦数据库官方Go驱动,本项目和官方驱动版本同步,方便go mod 使用.  
 安装达梦数据库(版本>=8.1.1.126),安装目录下 drivers/go/dm-go-driver.zip    
@@ -10,6 +10,9 @@ go get gitee.com/chunanyong/dm
 资源下载:https://eco.dameng.com/download/    
 达梦官方Go驱动包:https://package.dameng.com/eco/adapter/resource/go/dm-go-driver.zip  
 达梦官方论坛(提交bug):https://eco.dameng.com/community/question  
+
+### gorm
+Go轻量ORM https://github.com/go-gorm/gorm，使用gorm访问达梦请使用gorm驱动：https://github.com/sineycoder/gorm-dm，内部已引入当前驱动。
 
 ### zorm  
 Go轻量ORM https://gitee.com/chunanyong/zorm 原生支持达梦数据库  
