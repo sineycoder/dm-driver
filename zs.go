@@ -14,7 +14,7 @@ import (
 	"unicode"
 	"unicode/utf8"
 
-	"code.byted.org/videoarch-onpremise/dm/util"
+	"github.com/sineycoder/dm-driver/util"
 )
 
 type oracleDateFormat struct {

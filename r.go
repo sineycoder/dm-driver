@@ -10,7 +10,7 @@ import (
 	"strconv"
 	"strings"
 
-	"code.byted.org/videoarch-onpremise/dm/util"
+	"github.com/sineycoder/dm-driver/util"
 )
 
 const (

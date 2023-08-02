@@ -9,9 +9,9 @@ import (
 	"strconv"
 	"strings"
 
-	"code.byted.org/videoarch-onpremise/dm/parser"
+	"github.com/sineycoder/dm-driver/parser"
 
-	"code.byted.org/videoarch-onpremise/dm/util"
+	"github.com/sineycoder/dm-driver/util"
 )
 
 func (dc *DmConnection) lex(sql string) ([]*parser.LVal, error) {
